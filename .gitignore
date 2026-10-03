@@ -1,0 +1,21 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Variables d'environnement
+.env
+
+# Éditeurs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
